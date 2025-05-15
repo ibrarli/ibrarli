@@ -36,7 +36,7 @@
 
 ### 📫 Let’s Connect
 
-- 💬 LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/ibrar--ali)
+- 💬 LinkedIn: [linkedin.com/in/ibrar--ali](https://linkedin.com/in/ibrar--ali)
 - 🌐 Portfolio: [apenapps.com](https://apenapps.com)
 - 📧 Email: ibraralihaidar@gmail.com
 
