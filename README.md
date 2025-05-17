@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Ibrar Ali</h1>
-<h3 align="center">MERN Stack / Next.js Developer | Ui/Ux Designer </h3>
+<h3 align="center">MERN Stack / Next.js Developer | UI/UX Designer</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="150" alt="funny cat coding gif" style="border-radius: 15px;" />
@@ -9,10 +9,9 @@
 
 ### 👨‍💻 About Me
 
-- 🧠 I love **coding**, **designing**, and learning **new skills**.
-- 💼 I’m currently building cool projects with **MERN stack** and **Next.js**.
-- 🧩 I enjoy solving problems and making things user-friendly.
-- 😂 Fun fact: I talk to my code. Sometimes it answers back.
+- 💼 Currently working as a **Research Associate Full-stack Developer** at the **National Centre of Robotics and Automation**, building advanced dashboards and robot control interfaces using **Next.js**, **Tailwind CSS**, and modern web technologies.
+- 🛡️ Previously worked as a **Software Developer at Defence Housing Authority**, where I contributed to internal software tools and web systems.
+- 🎨 I also design UI/UX, and my design work is available on [Behance](https://behance.net/ibrarli).
 
 ---
 
@@ -34,11 +33,25 @@
 
 ---
 
+### 🏅 Achievements
+
+- 🏆 Winner of a Speed Programming Competition  
+- 📜 Completed Frontend and Backend Specialization by Meta
+- 🔬 Research & development experience in robotics automation
+  
+---
+
+### 🖼️ Design Portfolio
+
+- 🎨 [behance.net/ibrarli](https://behance.net/ibrarli)
+
+---
+
 ### 📫 Let’s Connect
 
 - 💬 LinkedIn: [linkedin.com/in/ibrarli](https://linkedin.com/in/ibrarli)
 - 🌐 Portfolio: [apenapps.com](https://apenapps.com)
-- 📧 Email: ibraralihaidar@gmail.com
+- 📧 Email: [ibraralihaidar@gmail.com](mailto:ibraralihaidar@gmail.com)
 
 ---
 
