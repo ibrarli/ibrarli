@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Ibrar Ali</h1>
-<h3 align="center">MERN Stack / Next.js Developer | UI/UX Designer</h3>
+<h3 align="center">Full-stack Developer | UI/UX Designer</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="150" alt="funny cat coding gif" style="border-radius: 15px;" />
