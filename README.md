@@ -7,15 +7,15 @@
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
-- 💼 Currently working as a **Research Associate Full-stack Developer** at the **National Centre of Robotics and Automation**, building advanced dashboards and robot control interfaces using **Next.js**, **Tailwind CSS**, and modern web technologies.
-- 🛡️ Previously worked as a **Software Developer at Defence Housing Authority**, where I contributed to internal software tools and web systems.
-- 🎨 I also design UI/UX, and my design work is available on [Behance](https://behance.net/ibrarli).
+- Currently working as a **Research Associate Full-stack Developer** at the **National Centre of Robotics and Automation**, building advanced dashboards and robot control interfaces using **Next.js**, **Tailwind CSS**, and modern web technologies.
+- Previously worked as a **Software Developer at Defence Housing Authority**, where I contributed to internal software tools and web systems.
+- I also design UI/UX, and my design work is available on [Behance](https://behance.net/ibrarli).
 
 ---
 
-### ⚙️ Tech Stack
+### Tech Stack
 
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
@@ -35,25 +35,20 @@
 
 ---
 
-### 🏅 Achievements
+### Achievements
 
-- 🏆 Winner of a Speed Programming Competition  
-- 📜 Completed Frontend and Backend Specialization by Meta
-- 🔬 Research & development experience in robotics automation
+- Winner of a Speed Programming Competition  
+- Completed Frontend and Backend Specialization by Meta
+- Research & development experience in robotics automation
   
 ---
 
-### 🖼️ Design Portfolio
+### Let’s Connect
 
-- 🎨 [behance.net/ibrarli](https://behance.net/ibrarli)
-
----
-
-### 📫 Let’s Connect
-
-- 💬 LinkedIn: [linkedin.com/in/ibrarli](https://linkedin.com/in/ibrarli)
-- 🌐 Portfolio: [apenapps.com](https://apenapps.com)
-- 📧 Email: [ibraralihaidar@gmail.com](mailto:ibraralihaidar@gmail.com)
+- LinkedIn: [linkedin.com/in/ibrarli](https://linkedin.com/in/ibrarli)
+- Website: [apenapps.com](https://apenapps.com)
+- Design Portfolio: [behance.net/ibrarli](https://behance.net/ibrarli)
+- Email: [ibraralihaidar@gmail.com](mailto:ibraralihaidar@gmail.com)
 
 ---
 
