@@ -1,5 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Ibrar Ali</h1>
-<h3 align="center">Full-stack Developer | UI/UX Designer</h3>
+<h1 align="center">Hi there 👋, I'm Full-stack Developer & UI/UX Designer</h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="150" alt="funny cat coding gif" style="border-radius: 15px;" />
@@ -7,13 +6,6 @@
 
 ---
 
-### About Me
-
-- Currently working as a **Research Associate Full-stack Developer** at the **National Centre of Robotics and Automation**, building advanced dashboards and robot control interfaces using **Next.js**, **Tailwind CSS**, and modern web technologies.
-- Previously worked as a **Software Developer at Defence Housing Authority**, where I contributed to internal software tools and web systems.
-- I also design UI/UX, and my design work is available on [Behance](https://behance.net/ibrarli).
-
----
 
 ### Tech Stack
 
@@ -35,23 +27,11 @@
 
 ---
 
-### Achievements
-
-- Winner of a Speed Programming Competition  
-- Completed Frontend and Backend Specialization by Meta
-- Research & development experience in robotics automation
-  
----
-
 ### Let’s Connect
 
 - LinkedIn: [linkedin.com/in/ibrarli](https://linkedin.com/in/ibrarli)
 - Website: [apenapps.com](https://apenapps.com)
 - Design Portfolio: [behance.net/ibrarli](https://behance.net/ibrarli)
+- Portfolio Website: [ibrar.apenapps.com](https://ibrar.apenapps.com)
 - Email: [ibraralihaidar@gmail.com](mailto:ibraralihaidar@gmail.com)
 
----
-
-<p align="center">
-  <img src="https://readme-jokes.vercel.app/api" alt="Jokes" />
-</p>
