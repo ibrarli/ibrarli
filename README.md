@@ -27,7 +27,7 @@
 
 ---
 
-## `root@ibrar:~$ neofetch`
+### `root@ibrar:~$ neofetch`
 
 ```text
 ┌──────────────────────────────────────────────────────────────┐
@@ -45,7 +45,7 @@
 
 ---
 
-## `root@ibrar:~$ tree skills`
+### `root@ibrar:~$ tree skills`
 
 ```text
 .
@@ -74,7 +74,7 @@
 
 ---
 
-## `root@ibrar:~$ git log --oneline`
+### `root@ibrar:~$ git log --oneline`
 
 ```text
 ✔ Ship production web application
@@ -87,7 +87,7 @@
 
 ---
 
-## `root@ibrar:~$ stats`
+### `root@ibrar:~$ stats`
 
 ```yaml
 Experience : ███████████████████ 3+ Years
@@ -112,9 +112,9 @@ Coffee     : ██████████████████████�
 
 ---
 
-```bash
-root@ibrar:~$ contact
-```
+### `root@ibrar:~$ contact`
+
+
 
 ```text
 Portfolio  → https://ibrar.apenapps.com
