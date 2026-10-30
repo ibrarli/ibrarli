@@ -23,11 +23,10 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=2500&pause=900&color=00FF41&center=true&vCenter=true&width=900&lines=Booting+IBRAR+ALI...;Full+Stack+Software+Engineer;30%2B+Projects+Shipped+to+Production;React+%7C+Next.js+%7C+.NET+%7C+Node.js;Design+%E2%86%92+Build+%E2%86%92+Deploy+%E2%86%92+Scale" alt="Typing intro" />
 
-[![Portfolio](https://img.shields.io/badge/portfolio-ibrar.apenapps.com-00FF41?style=flat-square&logo=googlechrome&logoColor=00FF41&labelColor=0d1117)](https://ibrar.apenapps.com)
-[![LinkedIn](https://img.shields.io/badge/linkedin-ibrarli-00FF41?style=flat-square&logo=linkedin&logoColor=00FF41&labelColor=0d1117)](https://linkedin.com/in/ibrarli)
-[![Behance](https://img.shields.io/badge/behance-ibrarli-00FF41?style=flat-square&logo=behance&logoColor=00FF41&labelColor=0d1117)](https://behance.net/ibrarli)
-[![Email](https://img.shields.io/badge/email-helloibrarali%40gmail.com-00FF41?style=flat-square&logo=gmail&logoColor=00FF41&labelColor=0d1117)](mailto:helloibrarali@gmail.com)
-[![Profile views](https://komarev.com/ghpvc/?username=ibrarli&style=flat-square&color=00FF41&label=visitors)](https://github.com/ibrarli)
+<a href="https://ibrar.apenapps.com"><img src="https://img.shields.io/badge/ibrar.apenapps.com-0d1117?style=for-the-badge&logo=googlechrome&logoColor=00FF41" alt="Portfolio" /></a>
+<a href="https://linkedin.com/in/ibrarli"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00FF41" alt="LinkedIn" /></a>
+<a href="https://behance.net/ibrarli"><img src="https://img.shields.io/badge/Behance-0d1117?style=for-the-badge&logo=behance&logoColor=00FF41" alt="Behance" /></a>
+<a href="mailto:helloibrarali@gmail.com"><img src="https://img.shields.io/badge/helloibrarali@gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=00FF41" alt="Email" /></a>
 
 </div>
 
@@ -130,10 +129,7 @@ Coffee     : ██████████████████████�
 
 ### `root@ibrar:~$ system_monitor`
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ibrarli&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9" alt="GitHub stats" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=ibrarli&theme=chartreuse-dark&hide_border=true" alt="GitHub streak" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ibrarli&bg_color=0d1117&color=00FF41&line=00FF41&point=c9d1d9&area=true&hide_border=true" alt="Contribution graph" />
+<img src="https://streak-stats.demolab.com/?user=ibrarli&theme=chartreuse-dark&hide_border=true" alt="GitHub streak" />
 
 </div>
 
