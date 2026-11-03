@@ -22,7 +22,6 @@
 ╚════════════════════════════════════════════════════════════════════════════╝
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=2500&pause=900&color=00FF41&center=true&vCenter=true&width=900&lines=Booting+IBRAR+ALI...;Full+Stack+Software+Engineer;30%2B+Projects+Shipped+to+Production;React+%7C+Next.js+%7C+.NET+%7C+Node.js;Design+%E2%86%92+Build+%E2%86%92+Deploy+%E2%86%92+Scale" alt="Typing intro" />
 
 <a href="https://ibrar.apenapps.com"><img src="https://img.shields.io/badge/ibrar.apenapps.com-0d1117?style=for-the-badge&logo=googlechrome&logoColor=00FF41" alt="Portfolio" /></a>
 <a href="https://linkedin.com/in/ibrarli"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00FF41" alt="LinkedIn" /></a>
