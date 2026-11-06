@@ -13,7 +13,6 @@
 ║ │   ╚═╝╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝    ╚═╝  ╚═╝╚══════╝╚═╝           │ ║
 ║ │                                                                        │ ║
 ║ │ > Full Stack Software Engineer @ Apen Apps                             │ ║
-║ │ > React • Next.js • .NET • Node.js • PostgreSQL • Docker               │ ║
 ║ │ > 30+ production deployments since 2023                                │ ║
 ║ │ > Award -> IGNITE Speed Programming Winner (2022)                      │ ║
 ║ │                                                                        │ ║
